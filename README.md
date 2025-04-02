@@ -1,2 +1,2 @@
 # PEMY
-Projecte de l'assignatura de Robòtica, Llenguatge i Planificació
+Projecte de l'assignatura de Robòtica, Llenguatge i Planificació (en procés)
